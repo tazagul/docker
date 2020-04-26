@@ -1,2 +1,2 @@
 # docker
-this is demo docker app
+to create nodejs image
